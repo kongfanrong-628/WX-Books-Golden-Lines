@@ -1,0 +1,8 @@
+{
+  "api_key": "在此填入你的微信读书 Key（格式 wrk-xxxx，从微信读书 App/网页端获取）",
+  "gateway": "https://i.weread.qq.com/api/agent/gateway",
+  "skill_version": "1.0.4",
+  "kb_dir": "./knowledge_base",
+  "min_insert": 3,
+  "author_contact": "在此填写你的联系方式（如 微信公众号：孔不惑AIko / 微信：xxx），用于开源分享时署名与引流"
+}
