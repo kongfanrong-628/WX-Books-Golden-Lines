@@ -1,0 +1,9 @@
+# 忽略用户私有配置与本地数据（开源分享时不提交）
+config.json
+knowledge_base/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
